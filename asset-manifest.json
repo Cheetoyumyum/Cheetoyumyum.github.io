@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fef83a42.css",
+    "main.js": "/static/js/main.2b65a01e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.gif": "/static/media/logo.cff60a3cee8c25a0d4ca.gif",
+    "static/media/gamdom.png": "/static/media/gamdom.43d5507e29defadde3e7.png",
+    "static/media/Twitch_logo.png": "/static/media/Twitch_logo.dd57879e5ea91f4e6c00.png",
+    "index.html": "/index.html",
+    "main.fef83a42.css.map": "/static/css/main.fef83a42.css.map",
+    "main.2b65a01e.js.map": "/static/js/main.2b65a01e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef83a42.css",
+    "static/js/main.2b65a01e.js"
+  ]
+}
