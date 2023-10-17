@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.56c40530.css",
-    "main.js": "/static/js/main.85a50fe1.js",
+    "main.css": "/static/css/main.b8e67df1.css",
+    "main.js": "/static/js/main.d13124be.js",
     "static/media/custom.woff2": "/static/media/custom.66713cde314945af281f.woff2",
     "static/media/DMWatch.svg": "/static/media/DMWatch.dc78a7892d8f87ecf5400460f6d83c15.svg",
     "static/media/settingsX.svg": "/static/media/settingsX.2d308bc2327a1f8ca0bb6e751677f123.svg",
-    "static/media/settingsCheckmark.svg": "/static/media/settingsCheckmark.a38410e545f5e008f73e78d0c9896fa1.svg",
     "static/media/gold.svg": "/static/media/gold.6b5414ddc98549e8e1abec4583fdf742.svg",
     "static/media/investigate.svg": "/static/media/investigate.429b1d16504a20f4a29f8e0580003d93.svg",
     "static/media/total.svg": "/static/media/total.f614203661342d20944e5366137f2544.svg",
@@ -13,11 +12,11 @@
     "static/media/nameChange.svg": "/static/media/nameChange.b84075a364700844f7135963fda33e70.svg",
     "static/media/filed.svg": "/static/media/filed.f84344a37f387ef9326a5928223f2e2c.svg",
     "index.html": "/index.html",
-    "main.56c40530.css.map": "/static/css/main.56c40530.css.map",
-    "main.85a50fe1.js.map": "/static/js/main.85a50fe1.js.map"
+    "main.b8e67df1.css.map": "/static/css/main.b8e67df1.css.map",
+    "main.d13124be.js.map": "/static/js/main.d13124be.js.map"
   },
   "entrypoints": [
-    "static/css/main.56c40530.css",
-    "static/js/main.85a50fe1.js"
+    "static/css/main.b8e67df1.css",
+    "static/js/main.d13124be.js"
   ]
 }
